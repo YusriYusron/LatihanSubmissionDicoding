@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Dicoding</string>
+    <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil">Hasil</string>
+    <string name="intent">Latihan Intent</string>
+    <string name="intent_dengan_data">Intent dengan data</string>
+    <string name="intent_dengan_object">Intent dengan object</string>
+    <string name="intent_dial_number">Intent Dial Number</string>
+    <string name="intent_untuk_hasil">Intent untuk hasil</string>
+    <string name="data_received">Data Received</string>
+    <string name="object_received">Object Received</string>
+    <string name="angka_yang_disukai">Angka yang disukai</string>
+    <string name="_50">50</string>
+    <string name="_100">100</string>
+    <string name="_150">150</string>
+    <string name="_200">200</string>
+    <string name="pilih">Pilih</string>
+    <string name="hasil_dari_activity">Hasil dari activity</string>
+    <string name="menghitung_volume">Menghitung Volume</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ke_fragment_kategori">Ke Fragment Kategori</string>
+    <string name="latihan_fragment">Latihan Fragment</string>
+    <string name="this_profile">Ini activity Profile</string>
+    <string name="category_lifestyle">Ke fragment Lifestyle</string>
+    <string name="category_name">Category Name</string>
+    <string name="category_description">Category Description</string>
+    <string name="to_profile">Ke Halaman Profile Activity</string>
+    <string name="show_dialog">Tampilkan sebuah dialog</string>
+    <string name="hello_home_fragment">Hello Ini Home Fragment</string>
+    <string name="to_category">Ke fragment Category</string>
+    <string name="question_coach">Siapa pelatih tersukses Machester United?</string>
+    <string name="sir_alex_ferguson">Sir Alex Ferguson</string>
+    <string name="jose_mourinho">Jose Mourinho</string>
+    <string name="louis_van_gaal">Louis Van Gaal</string>
+    <string name="david_moyes">David Moyes</string>
+    <string name="choose">Pilih</string>
+    <string name="close">Tutup</string>
+
+    <string name="latihan_view_dan_view_group">Latihan View dan View Group</string>
+    <string name="content_text">
+        Google officially announced its much-anticipated Pixel phones; the Pixel and Pixel XL, on October 4. We attended Google’s London UK event, mirroring the main one taking place in San Francisco, US, where the firm unwrapped the new Android 7.1 Nougat devices which will apparently usurp Google’s long-standing Nexus series.
+    </string>
+    <string name="content_specs_display">
+        5.0 inches\n
+        FHD AMOLED at 441ppi\n
+        2.5D Corning® Gorilla® Glass 4
+    </string>
+    <string name="content_specs_size">
+        5.6 x 2.7 x 0.2 ~ 0.3 inches 143.8 x 69.5 x 7.3 ~ 8.5 mm
+    </string>
+    <string name="content_specs_battery">
+        2,770 mAh battery\n
+        Standby time (LTE): up to 19 days\n
+        Talk time (3g/WCDMA): up to 26 hours\n
+        Internet use time (Wi-Fi): up to 13 hours\n
+        Internet use time (LTE): up to 13 hours\n
+        Video playback: up to 13 hours\n
+        Audio playback (via headset): up to 110 hours\n
+        Fast charging: up to 7 hours of use from only 15 minutes of charging
+    </string>
+    <string name="stock">Stock hanya 5 buah</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="battery">Battery</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Narenda Wicaksono</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">$735</string>
+    <string name="dummy_photos">6 photos</string>
+    <string name="latihan_recycler_view">Latihan Recycler,Grid dan Card View</string>
+    <string name="presiden_pertama_ri">Presiden Pertama RI</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="card">Card</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:padding="@dimen/activity_vertical_margin">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/item_presiden"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:src="@android:color/darker_gray"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        android:layout_marginEnd="@dimen/activity_horizontal_margin"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/item_presiden"
+        android:layout_toEndOf="@+id/item_presiden"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/item_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="Ir.Soekarno"
+            android:textSize="16sp"
+            android:textColor="@android:color/black"
+            android:layout_marginBottom="@dimen/activity_horizontal_margin"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/item_remarks"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="@string/presiden_pertama_ri"
+            android:textColor="@android:color/black"/>
+
+    </LinearLayout>
+
+</RelativeLayout>
